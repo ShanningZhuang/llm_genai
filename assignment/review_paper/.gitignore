@@ -11,3 +11,4 @@ neurips_2023.pdf
 *.lot
 *.fls
 *.fdb_latexmk
+*.xdv
