@@ -1,0 +1,14 @@
+El Informe de Investigación de la Industria de la Inteligencia Artificial + Educación 2025 resalta la integración de la inteligencia artificial (IA) en el sector educativo, llevando este de la "informacionalización" a la "inteligencialización". Los objetivos principales de la IA en la educación incluyen mejorar la eficiencia de la enseñanza, personalizar el aprendizaje, promover la equidad educativa y reducir la carga de trabajo de los docentes. Las tecnologías de IA involucradas abarcan modelos grandes, procesamiento de lenguaje natural, visión por computadora, grafos de conocimiento y voz inteligente.
+
+Las principales aplicaciones de la IA en la educación se dividen en cuatro áreas principales:
+
+1. **Enseñanza**: La IA ayuda en la planificación y entrega de lecciones, y en la gestión del aula mediante tecnologías como el reconocimiento de emociones y ayudas docentes inteligentes.
+2. **Aprendizaje**: Los sistemas de aprendizaje adaptativo ajustan los caminos de aprendizaje según el progreso de los estudiantes, mientras que los chatbots impulsados por IA ofrecen tutoría 24/7.
+3. **Evaluación**: La IA automatiza la creación de exámenes, la calificación y ofrece retroalimentación personalizada sobre el aprendizaje.
+4. **Gestión**: La IA ayuda en tareas administrativas como programación, asistencia y seguimiento del rendimiento, y ofrece apoyo en el desarrollo profesional de los docentes.
+
+Se espera que el mercado de la IA en la educación alcance los 300 mil millones de RMB para 2025, impulsado por las políticas gubernamentales que apoyan su integración en los sistemas educativos, como el "Plan de Desarrollo de IA de Próxima Generación" y el "Plan de Acción de Informatización Educativa 2.0".
+
+Los principales actores en el campo incluyen empresas de tecnología educativa como Zhangmen Education e iFlytek, así como universidades como la Universidad de Ciencia y Tecnología de Hong Kong, que ha desarrollado instructores de IA para la enseñanza.
+
+A pesar de los desafíos como la privacidad de los datos y la implementación técnica, el futuro de la IA en la educación es prometedor, ya que la IA tiene el potencial de mejorar el aprendizaje personalizado y la equidad educativa.

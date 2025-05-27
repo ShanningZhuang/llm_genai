@@ -1,0 +1,14 @@
+The 2025 AI+Education Industry Research Report highlights the integration of artificial intelligence (AI) into the education sector, transitioning it from "informationization" to "intelligentization." The core objectives of AI in education include improving teaching efficiency, personalizing learning, promoting educational equity, and reducing teacher workloads. AI technologies involved span large models, natural language processing, computer vision, knowledge graphs, and intelligent voice.
+
+Key applications of AI in education are divided into four main areas: 
+
+1. **Teaching**: AI assists with lesson planning and delivery, and classroom management using technologies like emotion recognition and intelligent teaching aids.
+2. **Learning**: Adaptive learning systems adjust learning paths based on students’ progress, while AI-driven chatbots provide 24/7 tutoring.
+3. **Assessment**: AI automates test creation, grading, and offers personalized learning feedback.
+4. **Management**: AI aids in administrative tasks such as scheduling, attendance, and performance tracking, and offers career development support for teachers.
+
+The market for AI in education is expected to reach 300 billion RMB by 2025, driven by government policies supporting its integration into educational systems, such as the "Next-Generation AI Development Plan" and "Education Informatization 2.0 Action Plan."
+
+Major players in the field include educational technology companies like Zhangmen Education and iFlytek, as well as universities such as the Hong Kong University of Science and Technology, which has developed AI instructors for teaching.
+
+Despite challenges like data privacy and technical implementation, the future of AI in education is promising, with AI set to enhance personalized learning and educational equity.
